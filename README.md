@@ -8,3 +8,4 @@ first line
 - фалы overrde.tf, ovveride.tf.json, файлы заканчивающиеся на  _override.tf и _override.tf.json
 - файлы конфигурации командной строки терраформ  .terrafofmrc и terraform.rc 
 
+Добавлена строка
